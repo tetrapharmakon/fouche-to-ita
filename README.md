@@ -7,3 +7,5 @@ A dictionary of sbraluf stuff
 - pcì cì cì 
 - chikapuh 
 - whoop whoop whoop 
+- ka-chiiiiing 
+- popopopopo
