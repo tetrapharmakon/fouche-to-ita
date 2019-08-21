@@ -4,4 +4,5 @@ A dictionary of sbraluf stuff
 - gnac
 - op
 - smlep
-- pcì cì cì
+- pcì cì cì 
+- chikapuh
