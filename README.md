@@ -5,4 +5,5 @@ A dictionary of sbraluf stuff
 - op
 - smlep
 - pcì cì cì 
-- chikapuh
+- chikapuh 
+- whoop whoop whoop 
